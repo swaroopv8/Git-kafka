@@ -1,0 +1,6 @@
+class my-fucking-first{
+                  public static void main(string[] args){
+                    system.out.println("this is my first fucking peice of code");
+}
+}
+
